@@ -10,7 +10,7 @@ Unfortunately wails doesn't currenly support cross compile so anyone on mac and 
 
 To compile or develope locally:
 
-1. Install the Wails CLI [wails](https://wails.io). Note that you'll also need Go and Node.js.
+1. Install the [Wails CLI](https://wails.io). Note that you'll also need Go and Node.js.
 2. Clone this repo
 3. Run ```npm install``` *(this should be done in the ```/frontend``` directory)*
 4. Run ```wails dev``` for a dev version or ```wails build``` to build a platfor specific binary
